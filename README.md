@@ -7,7 +7,7 @@
 💭 Currently learning about data analytics!<br/>
 
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
-![](https://github-readme-stats.vercel.app/api?username=ymoricode&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ymoricode)](https://github.com/anuraghazra/github-readme-stats)
 
 # 💻 Tech Stack
 <!-- Badges from https://github.com/Ileriayo/markdown-badges -->
