@@ -19,4 +19,10 @@
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+<a href='https://php.net' target="_blank"><img alt='php' src='https://ziadoua.github.io/m3-Markdown-Badges/badges/PHP/php1.svg'/></a>
+<a href='https://nodejs.org/en' target="_blank"><img alt='nodedotjs' src='https://ziadoua.github.io/m3-Markdown-Badges/badges/NodeJS/nodejs1.svg'/></a>
+<a href='https://getbootstrap.com' target="_blank"><img alt='bootstrap' src='https://ziadoua.github.io/m3-Markdown-Badges/badges/Bootstrap/bootstrap1.svg'/></a>
+
+### Software I use for daily life :
+<a href='https://chrome.google.com' target="_blank"><img alt='canva' src='https://ziadoua.github.io/m3-Markdown-Badges/badges/Chrome/chrome2.svg'/></a>
+<a href='https://vscode.dev' target="_blank"><img alt='visualstudiocode' src='https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudioCode/visualstudiocode1.svg'/></a>
