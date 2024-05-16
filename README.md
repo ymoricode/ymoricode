@@ -1,8 +1,9 @@
 <!-- Level 3: Add custom code -->
+<p align-items ="center"> <img src="assets/tenor.gif"/> </p>
 
 # Hi, I'm Dimas Rizki! 👋
 👩🏻‍💻 Software Engineer<br/>
-👩🏻‍🎓 Studied [Sistem Informasi] at the Universitas Ibn Khaldun Bogor, Indonesia<br/>
+🎓 Studied [Sistem Informasi] at the Universitas Ibn Khaldun Bogor, Indonesia<br/>
 🎨 Sharing about Computer Science, tech, and productivity on [LinkedIn](https://www.linkedin.com/in/dimas-rizki-dwi-saputra/)<br/>
 💭 Currently learning about data analytics!<br/>
 
