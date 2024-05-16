@@ -3,11 +3,11 @@
 # Hi, I'm Dimas Rizki! 👋
 👩🏻‍💻 Software Engineer<br/>
 👩🏻‍🎓 Studied [Sistem Informasi] at the Universitas Ibn Khaldun Bogor, Indonesia<br/>
-🎨 Sharing about Computer Science, tech, and productivity on [LinkedIn]([https://www.youtube.com/c/MagdelineHuang](https://www.linkedin.com/in/dimas-rizki-dwi-saputra/))<br/>
+🎨 Sharing about Computer Science, tech, and productivity on [LinkedIn](https://www.linkedin.com/in/dimas-rizki-dwi-saputra/)<br/>
 💭 Currently learning about data analytics!<br/>
 
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ymoricode)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ymoricode&show_icons=true&theme=tokyonight)
 
 # 💻 Tech Stack
 <!-- Badges from https://github.com/Ileriayo/markdown-badges -->
