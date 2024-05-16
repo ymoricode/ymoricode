@@ -1,7 +1,8 @@
 <!-- Level 3: Add custom code -->
-<p style="text-align: center;">
-    <img src="assets/tenor.gif" alt="GIF" style="display: inline-block; vertical-align: middle;">
-</p>
+<div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
+    <img src="assets/tenor.gif" alt="GIF">
+</div>
+
 # Hi, I'm Dimas Rizki! 👋
 👩🏻‍💻 Software Engineer<br/>
 🎓 Studied [Sistem Informasi] at the Universitas Ibn Khaldun Bogor, Indonesia<br/>
