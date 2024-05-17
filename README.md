@@ -29,3 +29,8 @@
 ### Software I use for daily life :
 <a href='https://chrome.google.com' target="_blank"><img alt='canva' src='https://ziadoua.github.io/m3-Markdown-Badges/badges/Chrome/chrome2.svg'/></a>
 <a href='https://vscode.dev' target="_blank"><img alt='visualstudiocode' src='https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudioCode/visualstudiocode1.svg'/></a>
+
+### Know More About Me :
+[![Linkedin Badge](https://ziadoua.github.io/m3-Markdown-Badges/badges/LinkedIn/linkedin1.svg)](https://www.linkedin.com/in/dimas-rizki-dwi-saputra/)
+[![Instagram Badge](https://ziadoua.github.io/m3-Markdown-Badges/badges/Instagram/instagram1.svg)](https://www.instagram.com/dimassrzkiii/)
+[![Github Badge](https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github3.svg)](https://github.com/ymoricode)<br/><br/>
