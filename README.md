@@ -1,5 +1,5 @@
 <!-- Level 3: Add custom code -->
-<div style="display: flex; justify-content: center; align-items: center; height: 100vh; margin: 0; height: 100vh; display: flex; justify-content: center; align-items: center; text-align: center;">
+<div style="display: flex; justify-content: center; align-items: center; height: 100vh; margin: 0; display: flex; justify-content: center; align-items: center; text-align: center;">
     <img src="assets/gyj.gif" alt="GIF">
 </div>
 
