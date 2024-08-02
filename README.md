@@ -1,7 +1,8 @@
 <!-- Level 3: Add custom code -->
-<div style="align: center; display: flex; justify-content: center; align-items: center; margin: 0; display: flex; justify-content: center; align-items: center; text-align: center; padding: 0; width: 100%; height: 100%;">
+<div align="center">
     <img src="assets/gyj.gif" alt="GIF">
 </div>
+
 
 
 # Hi, I'm Dimas Rizki! 👋
