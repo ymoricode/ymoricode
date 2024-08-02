@@ -1,6 +1,6 @@
 <!-- Level 3: Add custom code -->
 <div align="center">
-    <img src="assets/gyj.gif" alt="GIF">
+    <img src="assets/gyj.gif" alt="GIF" style="max-width: 100%; height: auto;>
 </div>
 
 
