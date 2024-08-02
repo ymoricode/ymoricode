@@ -1,6 +1,6 @@
 <!-- Level 3: Add custom code -->
 <div style="display: flex; justify-content: center; align-items: center; height: 100vh; margin: 0; height: 100vh; display: flex; justify-content: center; align-items: center;">
-    <img src="[assets/tenor.gif](https://tenor.com/view/go-youn-jung-고윤정-gif-18095385078779950994)" alt="GIF">
+    <img src="assets/gyj.gif" alt="GIF">
 </div>
 
 # Hi, I'm Dimas Rizki! 👋
