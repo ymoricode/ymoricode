@@ -1,7 +1,9 @@
 <!-- Level 3: Add custom code -->
-<div style="display: flex; justify-content: center; align-items: center; text-align: center; padding: 0; width: 100%;">
+<div style="align: center; display: flex; justify-content: center; align-items: center; margin: 0; display: flex; justify-content: center; align-items: center; text-align: center; padding: 0; width: 30px;">
     <img src="assets/gyj.gif" alt="GIF">
 </div>
+
+buat agar ketika digithub gif ketengah
 
 # Hi, I'm Dimas Rizki! 👋
 👩🏻‍💻 Software Engineer<br/>
