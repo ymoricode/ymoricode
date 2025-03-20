@@ -11,9 +11,6 @@
 🎨 Sharing about Computer Science, tech, and productivity on [LinkedIn](https://www.linkedin.com/in/dimas-rizki-dwi-saputra/)<br/>
 💭 Currently learning about data analytics!<br/>
 
-<!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ymoricode&show_icons=true&theme=tokyonight)
-
 # 💻 Tech Stack
 <!-- Badges from https://github.com/Ileriayo/markdown-badges -->
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -36,3 +33,7 @@
 [![Linkedin Badge](https://ziadoua.github.io/m3-Markdown-Badges/badges/LinkedIn/linkedin1.svg)](https://www.linkedin.com/in/dimas-rizki-dwi-saputra/)
 [![Instagram Badge](https://ziadoua.github.io/m3-Markdown-Badges/badges/Instagram/instagram1.svg)](https://www.instagram.com/dimassrzkiii/)
 [![Github Badge](https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github3.svg)](https://github.com/ymoricode)<br/><br/>
+
+<!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ymoricode&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ymoricode&theme=radical&layout=compact)
