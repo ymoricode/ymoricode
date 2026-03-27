@@ -2,7 +2,7 @@
 
 <!-- HEADER -->
 
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjQ2amFhYzNhcTdmbGUzcXJrcjNlZHVxb25iZm14YTlyN2E3bXJzYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DwZ392mpIdkvrvTnjm/giphy.gif" width="680" alt="One Piece"/>
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnF6bDc0bzd3Z291ZG02Y3BleHI4YWtleXM0YXBhOWczdzU3Y2h4diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/12K8GGWstl229G/giphy.gif" width="680" alt="One Piece"/>
 
 <br/>
 
