@@ -358,11 +358,3 @@ Kessoku Band 💜
 
 <br/>
 
-<!-- ✦ Footer Banner ✦ -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4c1d95,50:1a1b3a,100:0d1117&height=150&section=footer&text=%E2%9C%A8%20Thanks%20for%20visiting!%20%E2%9C%A8&fontSize=24&fontColor=c084fc&fontAlignY=65&animation=fadeIn" width="100%"/>
-
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!--              ✨ Made with by Dimas Rizki Dwi Saputra ✨               -->
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-
-</div>
