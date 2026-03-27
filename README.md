@@ -1,347 +1,207 @@
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!--                  ✨ DIMAS RIZKI DWI SAPUTRA ✨                           -->
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-
 <div align="center">
 
-<!-- ✦ Header Banner ✦ -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b3a,100:4c1d95&height=220&section=header&text=Dimas%20Rizki%20Dwi%20Saputra&fontSize=38&fontColor=c084fc&fontAlignY=35&desc=Web%20Developer%20%7C%20Data%20Analyst%20%7C%20Tech%20Enthusiast&descSize=16&descColor=a78bfa&descAlignY=55&animation=fadeIn" width="100%"/>
+<!-- HEADER -->
 
-<!-- ✦ Typing Animation ✦ -->
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjQ2amFhYzNhcTdmbGUzcXJrcjNlZHVxb25iZm14YTlyN2E3bXJzYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DwZ392mpIdkvrvTnjm/giphy.gif" width="680" alt="One Piece"/>
+
+<br/>
+
+### Hey there! I'm **Dimas Rizki Dwi Saputra** 👋
+
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=C084FC&center=true&vCenter=true&repeat=false&width=600&height=80&lines=Welcome+to+my+GitHub+Profile!+%F0%9F%91%8B" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&duration=3000&pause=1500&color=A78BFA&center=true&vCenter=true&repeat=true&width=500&height=30&lines=Web+Developer+%7C+Data+Analyst+%7C+Tech+Enthusiast" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<!-- ═══════════════════ DIVIDER ═══════════════════ -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
+<a href="https://linkedin.com/in/dimas-rizki-dwi-saputra"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://www.instagram.com/dimasrizkids/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"/></a>
+<a href="https://github.com/ymoricode"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="https://discord.com/users/ymoricode"><img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord"/></a>
+<a href="mailto:dimassrizkii704@email.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
 
-<!-- ✦ Ryo Yamada GIF ✦ -->
 <br/>
 
-<img src="https://media.tenor.com/Cek9YqIUiJUAAAAM/ryo-yamada-ryo.gif" width="220" alt="Ryo Yamada - Bocchi the Rock!"/>
+<img src="https://komarev.com/ghpvc/?username=ymoricode&color=a78bfa&style=flat-square&label=Profile+Views" alt="Profile Views"/>
 
-<br/><br/>
+</div>
 
-<!-- ═══════════════════ ABOUT ═══════════════════ -->
+---
 
-## About Me
-
-<table>
-<tr>
-<td>
+### 🧑‍💻 About Me
 
 ```yaml
-👤 Name       : Dimas Rizki Dwi Saputra
-💻 Role       : Web Developer & Data Analyst
-🌏 Location   : Indonesia
-🎓 Education  : Information System
-🔭 Focus      : Full-Stack Web Dev & Data Analytics
-🌱 Learning   : Always exploring new technologies
-🎌 Hobby      : Typing, Watching Movie, & Coding
-⚡ Fun Fact   : I code better with lo-fi & anime OST 🎵
+Name       : Dimas Rizki Dwi Saputra
+Role       : Web Developer & Data Analyst
+Location   : Indonesia
+Education  : Information System — Universitas Ibn Khaldun Bogor
+Focus      : Full-Stack Web Dev & Data Analytics
+Hobby      : Typing, Watching Movie, & Coding
+Fun Fact   : I code better with lo-fi & anime OST 🎵
 ```
 
-</td>
-<td>
+- 🔭 Currently working on **personal portfolio, web projects & data analysis**
+- 🌱 Learning **Next.js, AI Integration, Data Analyst**
+- 💬 Ask me about **Web Dev, Data Analysis, React, Python**
+- 📫 Reach me at **dimassrizkii704@email.com**
 
-### 🔥 Quick Highlights
-- 🚀 Passionate about **Web Development**
-- 📊 Skilled in **Data Analysis & Visualization**
-- 🎨 Love crafting **beautiful UIs & dashboards**
-- 🤖 Exploring **AI & Machine Learning**
-- 📱 Building **responsive web apps**
-- 🧠 Problem solver & fast learner
-- 🎮 Gamer in spare time
-- ☕ Coffee-powered developer
+---
 
-</td>
-</tr>
-</table>
+### 🛠️ Tech Stack
 
-<br/>
+**Frontend**
 
-<!-- ═══════════════════ CURRENTLY ═══════════════════ -->
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
+**Backend**
 
-<br/>
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
-## 🎯 What I'm Currently Up To
+**Data Analytics & Visualization**
 
-<table>
-<tr>
-<td>🔭</td>
-<td><b>Working on</b></td>
-<td>Personal portfolio, web projects & data analysis</td>
-</tr>
-<tr>
-<td>🌱</td>
-<td><b>Learning</b></td>
-<td>Next.js, AI Integration, Data Analyst</td>
-</tr>
-<tr>
-<td>👯</td>
-<td><b>Collaborate on</b></td>
-<td>Open-source projects & web apps</td>
-</tr>
-<tr>
-<td>💬</td>
-<td><b>Ask me about</b></td>
-<td>Web Dev, Data Analysis, React, Python, Anime!</td>
-</tr>
-<tr>
-<td>📫</td>
-<td><b>Reach me</b></td>
-<td><a href="mailto:dimassrizkii704@email.com">dimassrizkii704@email.com</a></td>
-</tr>
-</table>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=plotly&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![Looker Studio](https://img.shields.io/badge/Looker_Studio-4285F4?style=flat-square&logo=looker&logoColor=white)
 
-<br/>
+**Database & Cloud**
 
-<!-- ═══════════════════ TECH STACK ═══════════════════ -->
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
+**Tools**
 
-<br/>
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![npm](https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white)
+![Anti Gravity](https://img.shields.io/badge/Anti_Gravity-8B5CF6?style=flat-square&logo=google-gemini&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-74AA9C?style=flat-square&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
 
-## 🛠️ Tech Stack
+---
 
-### 🌐 Frontend
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
-  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="TailwindCSS"/>
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
-</p>
-
-### ⚙️ Backend
-<p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express"/>
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-</p>
-
-### 📊 Data Analytics & Visualization
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" alt="Matplotlib"/>
-  <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" alt="Google Colab"/>
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
-  <img src="https://img.shields.io/badge/Looker_Studio-4285F4?style=for-the-badge&logo=looker&logoColor=white" alt="Looker Studio"/>
-</p>
-
-### 🗄️ Database & Cloud
-<p>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
-</p>
-
-### 🔧 Tools & Others
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
-  <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm"/>
-  <img src="https://img.shields.io/badge/Anti_Gravity-8B5CF6?style=for-the-badge&logo=google-gemini&logoColor=white" alt="Anti Gravity"/>
-  <img src="https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT"/>
-  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude"/>
-</p>
-
-<br/>
-
-<!-- ═══════════════════ FEATURED PROJECTS ═══════════════════ -->
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
-
-<br/>
-
-## 🚀 Featured Projects
+### 🚀 Featured Projects
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🌐 Portfolio Website
-<p>Personal portfolio showcasing my work, skills, and experience. Built with modern technologies and stunning UI.</p>
-<p>
-  <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js" alt=""/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt=""/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt=""/>
-</p>
+**🌐 Portfolio Website**
+> Personal portfolio showcasing my work, skills, and experience.
 
-[![Repo](https://img.shields.io/badge/🔗_View_Repo-4c1d95?style=for-the-badge)](https://github.com/ymoricode/portfolio)
+![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+
+<a href="https://github.com/ymoricode/portfolio"><img src="https://img.shields.io/badge/View_Repo_→-4c1d95?style=flat-square" alt="Repo"/></a>
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🍔 Food Analyzer App
-<p>AI-powered food classification app using Gemini API. Analyze food images and get nutritional information.</p>
-<p>
-  <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js" alt=""/>
-  <img src="https://img.shields.io/badge/Gemini_AI-4285F4?style=flat-square&logo=google&logoColor=white" alt=""/>
-  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt=""/>
-</p>
+**🍔 Food Analyzer App**
+> AI-powered food classification using Gemini API.
 
-[![Repo](https://img.shields.io/badge/🔗_View_Repo-4c1d95?style=for-the-badge)](https://github.com/ymoricode/food-analyzer)
+![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js) ![Gemini](https://img.shields.io/badge/Gemini_AI-4285F4?style=flat-square&logo=google&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+
+<a href="https://github.com/ymoricode/food-analyzer"><img src="https://img.shields.io/badge/View_Repo_→-4c1d95?style=flat-square" alt="Repo"/></a>
 
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🌿 PlantCare AI
-<p>Smart plant care application with AI-powered plant disease detection and care recommendations.</p>
-<p>
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt=""/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt=""/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt=""/>
-</p>
+**🌿 PlantCare AI**
+> Smart plant disease detection and care recommendations.
 
-[![Repo](https://img.shields.io/badge/🔗_View_Repo-4c1d95?style=for-the-badge)](https://github.com/ymoricode/plantcare-ai)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+<a href="https://github.com/ymoricode/plantcare-ai"><img src="https://img.shields.io/badge/View_Repo_→-4c1d95?style=flat-square" alt="Repo"/></a>
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 💡 More Coming Soon...
-<p>Always building something new! Check out my repositories for the latest projects and experiments.</p>
-<p>
-  <img src="https://img.shields.io/badge/🚧_In_Progress-FFD700?style=flat-square" alt=""/>
-</p>
+**💡 More Coming Soon...**
+> Always building something new!
 
-[![All Repos](https://img.shields.io/badge/📂_All_Repos-4c1d95?style=for-the-badge)](https://github.com/ymoricode?tab=repositories)
+![In Progress](https://img.shields.io/badge/🚧_In_Progress-FFD700?style=flat-square)
+
+<a href="https://github.com/ymoricode?tab=repositories"><img src="https://img.shields.io/badge/All_Repos_→-4c1d95?style=flat-square" alt="Repos"/></a>
 
 </td>
 </tr>
 </table>
 
-<br/>
+---
 
-<!-- ═══════════════════ GITHUB STATS ═══════════════════ -->
+### 📊 GitHub Stats
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=ymoricode&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=c084fc&icon_color=a78bfa&text_color=e2e8f0&rank_icon=github" width="49%" alt="GitHub Stats"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ymoricode&theme=midnight-purple&hide_border=true&background=0D1117&ring=C084FC&fire=A78BFA&currStreakLabel=C084FC" width="49%" alt="GitHub Streak"/>
+</div>
 
-<br/>
-
-## 📊 GitHub Stats
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=ymoricode&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=c084fc&icon_color=a78bfa&text_color=e2e8f0&rank_icon=github" width="48%" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ymoricode&theme=midnight-purple&hide_border=true&background=0D1117&ring=C084FC&fire=A78BFA&currStreakLabel=C084FC" width="48%" alt="GitHub Streak"/>
-</p>
-
+<div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ymoricode&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=c084fc&text_color=e2e8f0&langs_count=8" width="40%" alt="Top Languages"/>
+</div>
 
-<br/><br/>
+<br/>
 
-<!-- ═══════════════════ TROPHIES ═══════════════════ -->
-
-## 🏆 GitHub Trophies
-
+<div align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=ymoricode&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=10" width="98%" alt="GitHub Trophies"/>
+</div>
 
 <br/>
 
-<!-- ═══════════════════ ACTIVITY GRAPH ═══════════════════ -->
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ymoricode&bg_color=0d1117&color=c084fc&line=a78bfa&point=e2e8f0&area=true&area_color=4c1d95&hide_border=true&custom_title=Contribution%20Graph" width="98%" alt="Activity Graph"/>
+</div>
 
-## 📈 Contribution Graph
+---
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ymoricode&bg_color=0d1117&color=c084fc&line=a78bfa&point=e2e8f0&area=true&area_color=4c1d95&hide_border=true&custom_title=Dimas's%20Contribution%20Graph" width="98%" alt="Activity Graph"/>
-
-<br/>
-
-<!-- ═══════════════════ RANDOM DEV QUOTE ═══════════════════ -->
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
-
-<br/>
-
-## 💭 Random Dev Quote
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=midnight-purple" width="70%" alt="Random Dev Quote"/>
-
-<br/><br/>
-
-<!-- ═══════════════════ SPOTIFY ═══════════════════ -->
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
-
-<br/>
-
-## 🎵 Vibes
+### 🎵 Vibes
 
 > *"Good code is like good music — it flows naturally."* 🎶
 
 <table>
 <tr>
-<td align="center">🎌 <b>Favorite Anime</b></td>
-<td align="center">🎮 <b>Favorite Games</b></td>
-<td align="center">🎵 <b>Coding Playlist</b></td>
+<td align="center"><b>🎌 Anime</b></td>
+<td align="center"><b>🎮 Games</b></td>
+<td align="center"><b>🎵 Playlist</b></td>
 </tr>
 <tr>
-<td align="center">
-One Piece<br/>
-Attack on Titan<br/>
-Jujutsu Kaisen<br/>
-Naruto
-</td>
-<td align="center">
-League of Legends<br/>
-Mobile Legends<br/>
-Chaos Zero Nightmare<br/>
-Wildrift
-</td>
-<td align="center">
-Lo-fi Beats 🎧<br/>
-Anime OST 🎼<br/>
-J-Pop / J-Rock 🎸<br/>
-Kessoku Band 💜
-</td>
+<td align="center">One Piece<br/>Attack on Titan<br/>Jujutsu Kaisen<br/>Naruto</td>
+<td align="center">League of Legends<br/>Mobile Legends<br/>Chaos Zero Nightmare<br/>Wildrift</td>
+<td align="center">Lo-fi Beats 🎧<br/>Anime OST 🎼<br/>J-Pop / J-Rock 🎸<br/>Kessoku Band 💜</td>
 </tr>
 </table>
 
-<br/>
+---
 
-<!-- ═══════════════════ DIVIDER ═══════════════════ -->
+<div align="center">
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
-
-<br/>
-
-## 🌐 Connect With Me
-
-<p>
-  <a href="https://github.com/ymoricode"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-  <a href="https://www.instagram.com/dimasrizkids/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
-  <a href="https://linkedin.com/in/dimas-rizki-dwi-saputra"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://discord.com/users/ymoricode"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a>
-  <a href="mailto:dimassrizkii704@email.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-</p>
-
-<br/>
-
-<!-- ═══════════════════ VISITOR COUNTER ═══════════════════ -->
-
-<img src="https://komarev.com/ghpvc/?username=ymoricode&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=midnight-purple" width="70%" alt="Dev Quote"/>
 
 <br/><br/>
 
-<!-- ✦ Snake Animation ✦ -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
@@ -350,11 +210,6 @@ Kessoku Band 💜
 
 <br/>
 
-<!-- ═══════════════════ FUN SECTION ═══════════════════ -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4c1d95,50:1a1b3a,100:0d1117&height=120&section=footer" width="100%"/>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
-
-<br/>
-
-<br/>
-
+</div>
